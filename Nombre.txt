@@ -1,6 +1,9 @@
 Soledad
 Leonel
+<<<<<<< HEAD
 Raul
 Luna
 Nicolas
+=======
+>>>>>>> 3f5627817f1d15a06b1545e19851280b85583d23
 Matias
